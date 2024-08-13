@@ -1,0 +1,6 @@
+model_name,model_type,url,is free
+DALL_E,Image Generator,https://openai.com/dall-e/,No
+GPT_3,Text Generator,https://openai.com/gpt-3/,No
+DeepArt,Image Generator,https://deepart.io/,Yes
+VoiceGenerator,Voice Generator,https://voicegenerator.io/,Yes
+Website Builder,Website Generator,https://websitebuilder.com/,No

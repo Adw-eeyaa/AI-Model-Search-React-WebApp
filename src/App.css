@@ -1,0 +1,21 @@
+
+
+
+.App{
+
+  margin:0;
+  padding:0;
+  background-image:url("https://image.cdn2.seaart.ai/2023-11-26/23786043065001989/99a3824821d3a5419288403bad82451ac887457f_high.webp");
+  background-repeat:no-repeat;
+  background-size:cover;
+  position:"fixed";
+
+}
+
+
+
+h1{
+  margin-top:20px;
+  color:#50e914;
+
+}
